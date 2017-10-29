@@ -61,7 +61,7 @@ projects = [
     <li id=\"li_projects\">Tour Guide app of Riyadh.</li> \
     <li id=\"li_projects\">It contains a list of Hotels, resturants, malls and museums. Also some useful information for travellers.</li> \ ",
     github: "https://github.com/alyas92/Riyadhtourguide",
-    screenshot: "src/device-2017-10-18-162812.PNG"
+    screenshot: "src/device-2017-10-18-162812.png"
   },
   {
     title: "Music Player",
