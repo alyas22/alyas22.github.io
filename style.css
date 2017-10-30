@@ -24,14 +24,21 @@
 
 /* code that is here will apply to any screen size */
 
-@media only screen and (max-width: 60em) {
-    .card-content p, span{
-    font-size: woteva;
+h1 {
+  font-size: 5.9vw;
+}
+h2 {
+  font-size: 8.0vh;
+}
+p  {
+  font-size: 2.3vmin;
+}
+span  {
+  font-size: 3vmin;
 }
 body {
 	font-family: Helvetica,Arial,sans-serif;
 	background: #FFFFFF url(src/overlay.png) repeat!important;
-	-webkit-text-size-adjust:100%;
 }
 
 #menu
