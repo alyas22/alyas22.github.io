@@ -1,6 +1,6 @@
 projects = [
   {
-    title: "Inventory App",
+    title: "<b>Inventory App</b>",
     description: "<li id=\"li_projects\">Project <b>Inventory App</b> of Android Basics Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>\
 	<li id=\"li_projects\">Final project of the Udacity course Android Development for Beginners</li>\
@@ -18,7 +18,7 @@ projects = [
     screenshot: "src/inventory.png"
   },
     {
-    title: "Habit Tracker",
+    title: "<b>Habit Tracker</b>",
     description: "<li id=\"li_projects\">Project <b>Habit Tracker App</b> of Android Developer Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>\
     <br><br><b>Description</b> \
@@ -28,7 +28,7 @@ projects = [
     screenshot: "src/habit_tracker.png"
   },
   {
-    title: "News App",
+    title: "<b>News App</b>",
     description: "<li id=\"li_projects\">Project <b>News App</b> of Android Basics Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>\
     <br><br><b>Description</b> \
@@ -41,7 +41,7 @@ projects = [
     screenshot: "src/news.png"
   },
   {
-    title: "Book Listing",
+    title: "<b>Book Listing</b>",
     description: "<li id=\"li_projects\">Project <b>Book Listing</b> of Android Basics Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>\
     <br><br><b>Description</b> \
@@ -52,7 +52,7 @@ projects = [
     screenshot: "src/book_listing.png"
   },
   {
-    title: "Riyadh Guide",
+    title: "<b>Riyadh Guide</b>",
     description: "<li id=\"li_projects\">Project <b>Tour Guide</b> of Android Basics Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>\
 	<li id=\"li_projects\"><a href=\"https://www.tripadvisor.com/Attractions-g293995-Activities-Riyadh_Riyadh_Province.html\" \
@@ -64,7 +64,7 @@ projects = [
     screenshot: "src/guide.png"
   },
   {
-    title: "Music Player",
+    title: "<b>Music Player</b>",
     description: "<li id=\"li_projects\">Project <b>Musical Structure</b> of Android Basics Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>\
     <li id=\"li_projects\">Images sources (<a href=\"https://static.annahar.com/storage/attachments/227/2vATfvSc_807818_649866_438325_highres.jpg\"\
@@ -76,7 +76,7 @@ projects = [
     screenshot: "src/music.png"
   },
   {
-    title: "Country Quiz",
+    title: "<b>Country Quiz</b>",
     description: "<li id=\"li_projects\">Project <b>Quiz App</b> of Android Basics Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>\
 	<li id=\"li_projects\"><a href=\"https://openclipart.org/image/800px/svg_to_png/271128/kawaii_earth.png\" \
@@ -90,14 +90,14 @@ projects = [
   },
   
   {
-    title: "Football Score Keeper",
+    title: "<b>Football Score Keeper</b>",
     description: "<li id=\"li_projects\">Project <b>Score Keeper App</b> of Android Basics Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>",
     github: "https://github.com/alyas92/FootballScoreKeeper",
     screenshot: "src/score_keeper.png"
   },
   {
-    title: "King Restaurant",
+    title: "<b>King Restaurant</b>",
     description: "<li id=\"li_projects\">Project <b>Build a Single Screen App</b> of Android Basics Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>",
     github: "https://github.com/alyas92/KingRestaurant",
