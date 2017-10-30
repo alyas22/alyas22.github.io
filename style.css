@@ -86,7 +86,6 @@ body {
 	padding: 8em 100px 8em 100px;
 	text-align: center;
 	color: rgba(255,255,255,0.4);
-    position: fixed
 
 }
 	
@@ -157,7 +156,6 @@ body {
 .cardss {
   padding-left: 100px;
   padding-right: 100px;
-  position: fixed
 
 }
 footer{
