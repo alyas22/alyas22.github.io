@@ -25,7 +25,7 @@
 /* code that is here will apply to any screen size */
 
 @media only screen and (max-width: 60em) {
-    #intro h2, h1{
+    .card-content p, span{
     font-size: woteva;
 }
 body {
