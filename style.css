@@ -67,8 +67,8 @@ body {
 }
 
 .resize {
- 	width: 250px;
-	height: 250px;
+ 	width: 180px;
+	height: 180px;
 	border-radius: 150px;
 	display: inline-block;
 	line-height: 60px;
