@@ -64,14 +64,14 @@ projects = [
     screenshot: "src/guide.png"
   },
     {
-    title: "<b>Flashlighit App</b>",
+    title: "<b>Flashlight App</b>",
     description: "<li id=\"li_projects\">Project <b>Flashlighit</b> uses the camera flash on your device to a light source.</li>\
     <li id=\"li_projects\"><a href=\"https://www.iconfinder.com/icons/34592/bulb_lamb_light_off_icon\" \
     target=\"_blank\">Images source</a></li>\
     <br><br><b>Description</b> \
     <li id=\"li_projects\">Very simple,Easy and Effective.</li>\ ",
     github: "https://github.com/alyas92/Flashlighit",
-    screenshot: "src/flaslight.png"
+    screenshot: "src/flashlight.png"
   },
   {
     title: "<b>Music Player</b>",
