@@ -15,7 +15,7 @@ projects = [
     <li id=\"li_projects\">Order more items with e-mail</li> \
     <li id=\"li_projects\">Delete one or all of your items</li>",
     github: "https://github.com/alyas92/InventoryApp",
-    screenshot: "src/flashlight.gif.gif"
+    screenshot: "src/flashlight.gif"
   },
     {
     title: "<b>Habit Tracker</b>",
