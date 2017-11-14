@@ -70,7 +70,7 @@ projects = [
     target=\"_blank\">Images source</a></li>\
     <br><br><b>Description</b> \
     <li id=\"li_projects\">Very simple,Easy and Effective.</li>\ ",
-    github: "https://github.com/alyas92/Flashlighit",
+    github: "https://github.com/alyas92/Flashlight",
     screenshot: "src/flashlight.png"
   },
   {
