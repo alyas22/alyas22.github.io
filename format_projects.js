@@ -15,7 +15,7 @@ projects = [
     <li id=\"li_projects\">Order more items with e-mail</li> \
     <li id=\"li_projects\">Delete one or all of your items</li>",
     github: "https://github.com/alyas92/InventoryApp",
-    screenshot: "src/flashlight.gif"
+    screenshot: "src/inventory.png"
   },
     {
     title: "<b>Habit Tracker</b>",
@@ -62,6 +62,16 @@ projects = [
     <li id=\"li_projects\">It contains a list of Hotels, resturants, malls and museums. Also some useful information for travellers.</li> \ ",
     github: "https://github.com/alyas92/Riyadhtourguide",
     screenshot: "src/guide.png"
+  },
+    {
+    title: "<b>Flashlighit App</b>",
+    description: "<li id=\"li_projects\">Project <b>Flashlighit</b> uses the camera flash on your device to a light source.</li>\
+    <li id=\"li_projects\"><a href=\"https://www.iconfinder.com/icons/34592/bulb_lamb_light_off_icon\" \
+    target=\"_blank\">Images source</a></li>\
+    <br><br><b>Description</b> \
+    <li id=\"li_projects\">Very simple,Easy and Effective.</li>\ ",
+    github: "https://github.com/alyas92/Flashlighit",
+    screenshot: "src/flaslight.png"
   },
   {
     title: "<b>Music Player</b>",
