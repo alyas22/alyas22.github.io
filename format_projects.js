@@ -14,7 +14,7 @@ projects = [
     <li id=\"li_projects\">Show pictures from the items</li> \
     <li id=\"li_projects\">Order more items with e-mail</li> \
     <li id=\"li_projects\">Delete one or all of your items</li>",
-    github: "https://github.com/alyas92/InventoryApp",
+    github: "https://github.com/alyas22/InventoryApp",
     screenshot: "src/inventory.png"
   },
     {
@@ -24,7 +24,7 @@ projects = [
     <br><br><b>Description</b> \
     <li id=\"li_projects\">Help users track and maintain healthy habits</li> \
     <li id=\"li_projects\">Using a SQLite</li>",
-    github: "https://github.com/alyas92/HabitTrackerApp",
+    github: "https://github.com/alyas22/HabitTrackerApp",
     screenshot: "src/habit_tracker.png"
   },
   {
@@ -37,7 +37,7 @@ projects = [
     <li id=\"li_projects\">Only the first 15 results will be displayed</li> \
     <li id=\"li_projects\">Swipe down to refresh the news list</li> \
     <li id=\"li_projects\">Tap any item to open the article in your browser</li>",
-    github: "https://github.com/alyas92/NewsApp",
+    github: "https://github.com/alyas22/NewsApp",
     screenshot: "src/news.png"
   },
   {
@@ -48,7 +48,7 @@ projects = [
     <li id=\"li_projects\">Search books by author or title.</li> \
     <li id=\"li_projects\">Retrieves data from Google Books API.</li> \
     <li id=\"li_projects\">Only the first 10 results will be displayed.</li> \ ",
-    github: "https://github.com/alyas92/BookListing",
+    github: "https://github.com/alyas22/BookListing",
     screenshot: "src/book_listing.png"
   },
   {
@@ -60,7 +60,7 @@ projects = [
     <br><br><b>Description</b> \
     <li id=\"li_projects\">Tour Guide app of Riyadh.</li> \
     <li id=\"li_projects\">It contains a list of Hotels, resturants, malls and museums. Also some useful information for travellers.</li> \ ",
-    github: "https://github.com/alyas92/Riyadhtourguide",
+    github: "https://github.com/alyas22/Riyadhtourguide",
     screenshot: "src/guide.png"
   },
     {
@@ -70,7 +70,7 @@ projects = [
     target=\"_blank\">Images source</a></li>\
     <br><br><b>Description</b> \
     <li id=\"li_projects\">Very simple,Easy and Effective.</li>\ ",
-    github: "https://github.com/alyas92/Flashlight",
+    github: "https://github.com/alyas22/Flashlight",
     screenshot: "src/flashlight.png"
   },
   {
@@ -82,7 +82,7 @@ projects = [
     target=\"_blank\">2</a>)</li>\
     <br><br><b>Description</b> \
     <li id=\"li_projects\">Structure of a music player app</li>\ ",
-    github: "https://github.com/alyas92/MusicPlayerApp",
+    github: "https://github.com/alyas22/MusicPlayerApp",
     screenshot: "src/music.png"
   },
   {
@@ -95,7 +95,7 @@ projects = [
     <li id=\"li_projects\">5 Question's quizz about Countries</li> \
     <li id=\"li_projects\">It had to contain radio buttons, checkboxes and EditText</li> \
     <li id=\"li_projects\">Final score is shown with a Toast</li>",
-    github: "https://github.com/alyas92/CountryQuiz",
+    github: "https://github.com/alyas22/CountryQuiz",
     screenshot: "src/quiz.png"
   },
   
@@ -103,14 +103,14 @@ projects = [
     title: "<b>Football Score Keeper</b>",
     description: "<li id=\"li_projects\">Project <b>Score Keeper App</b> of Android Basics Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>",
-    github: "https://github.com/alyas92/FootballScoreKeeper",
+    github: "https://github.com/alyas22/FootballScoreKeeper",
     screenshot: "src/score_keeper.png"
   },
   {
     title: "<b>King Restaurant</b>",
     description: "<li id=\"li_projects\">Project <b>Build a Single Screen App</b> of Android Basics Nanodegree at <a href=\"https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803\" \
     target=\"_blank\">Udacity.com</a></li>",
-    github: "https://github.com/alyas92/KingRestaurant",
+    github: "https://github.com/alyas22/KingRestaurant",
     screenshot: "src/king.png"
   },
 ];
